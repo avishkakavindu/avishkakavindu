@@ -66,7 +66,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 <br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
-*last updete: 8th of June 2021
+*last update: 8th of June 2021*
 
 [twitter]: https://twitter.com/Avishkakavindu
 [instagram]: https://instagram.com/avishka_dambawinna
