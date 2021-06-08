@@ -52,13 +52,18 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 ### Tech Stacks:
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![phpstorm](https://img.shields.io/badge/phpstorm-143?style=for-flat&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+  <br/>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white") ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+<br/>
 ![openCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-flat&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=fflat&logo=jquery&logoColor=white")
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![djangoRESTframework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![Flutter](https://img.shields.io/badge/Flutter-02569B?styleflat&logo=flutter&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+<br/>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![djangoRESTframework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)<br/>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![Flutter](https://img.shields.io/badge/Flutter-02569B?styleflat&logo=flutter&logoColor=white)<br/>
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)<br/>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+<br/>
 ![heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat&logo=heroku&logoColor=white)
+<br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
 [twitter]: https://twitter.com/Avishkakavindu
