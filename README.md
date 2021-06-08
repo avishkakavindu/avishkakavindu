@@ -29,7 +29,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
   - *Machine Learning and Flutter*
   
 - 💬 Talk to me about
-  -  *python, psycology and anything (except small talk)*
+  -  *python, psychology and anything (except small talk)*
 - 😄 Pronouns: He/Him
 - 📝 I sometimes write articles on [ReadHub.lk](https://readhub.lk/) 
 
