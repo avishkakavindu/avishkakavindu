@@ -24,12 +24,12 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 
 #### 👨🏻‍💻About Me:
 -  I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- -- *django and django REST framework(CMS, django-shop)*
+   - django and django REST framework(CMS, django-shop)*
 - 🤔 I’m currently learning
-  -- *Machine Learning and Flutter*
+  - *Machine Learning and Flutter*
   
 - 💬 Talk to me about
--- *python, psycology and wierd stuff(wierd not wierd wierd *🥴*)*
+  -  *python, psycology and anything (except small talk)*
 - 😄 Pronouns: He/Him
 - 📝 I sometimes write articles on [ReadHub.lk](https://readhub.lk/) 
 
