@@ -22,7 +22,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 |   |   |   |   |   |   |   |`K`|   |   |   |   |   |   |   |
 ---
 
-#### 👨🏻‍💻About Me:
+### 👨🏻‍💻About Me:
 -  I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    - *django and django REST framework(CMS, django-shop)*
 - 🤔 I’m currently learning
@@ -34,7 +34,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 - 📝 I sometimes write articles on [ReadHub.lk](https://readhub.lk/) 
 
 - ⚡ Fun fact: *"If it works test it, if it doesn't work take break(small one😉)"*
----
+
 ### Connect with me:
 
 
@@ -48,7 +48,6 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 
 <br />
 
----
 
 ### Tech Stacks:
 
