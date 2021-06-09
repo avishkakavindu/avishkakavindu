@@ -33,7 +33,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 - 😄 Pronouns: He/Him
 - 📝 I sometimes write articles on [ReadHub.lk](https://readhub.lk/) 
 
-- ⚡ Fun fact: *"If it works test it, if it doesn't work take break(small one😉)"*
+- ⚡ Fun fact: *"If it works test it, if it doesn't work take a break(small one😉)"*
 
 ### Connect with me:
 
