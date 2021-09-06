@@ -19,7 +19,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 |`I`|   |   |`Y`|   |   |   |`A`|   |`T`|   |`Y`|   |   |   |
 |`S`|   |   |   |   |   |   |`R`|   |`I`|   |   |   |   |   |
 |`M`|   |   |   |   |   |   |`A`|   |`O`|`C`|`E`|`A`|`N`|   |
-|   |   |   |   |   |   |   |`K`|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |`K`|   |`N`|   |   |   |   |   |
 ---
 
 ### 👨🏻‍💻About Me:
