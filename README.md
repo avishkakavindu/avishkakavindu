@@ -1,5 +1,8 @@
 ### Hey🙂
 
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=avishkakavindu.visitor-badge)
+
+
 I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at University of Sabaragamuwa, Sri Lanka.
 
 
