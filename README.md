@@ -45,8 +45,9 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][instagram]
-[<img align="left" alt="Stackoverflow" width="22px" src="https://camo.githubusercontent.com/1c70eef8ecee26e250158b03f21eb3cb542c1cd8bfedf2c545f06c4593ffb378/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e312f69636f6e732f737461636b6f766572666c6f772e737667" />][stackoverflow]
 [<img align="left" alt="HackerRank" width="22px" src="https://camo.githubusercontent.com/4fea8de96f2e530d92ad4f370b5dd827943cf248fd6cd0ea0bcd49994c465f45/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31332e302f69636f6e732f6861636b657272616e6b2e737667" />][hackerrank]
+[<img align="left" alt="Stackoverflow" width="22px" src="https://camo.githubusercontent.com/1c70eef8ecee26e250158b03f21eb3cb542c1cd8bfedf2c545f06c4593ffb378/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e312f69636f6e732f737461636b6f766572666c6f772e737667" />][stackoverflow]
+[<img align="left" alt="Codereviewstackexchange" width="22px" src="https://cdn.sstatic.net/Sites/codereview/Img/favicon.ico?v=98c717f8afd1" />][codereview]
 
 
 <br />
@@ -75,5 +76,6 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 [instagram]: https://instagram.com/avishka_dambawinna
 [linkedin]:  https://linkedin.com/in/avishka-dambawinna-6263b317b/
 [facebook]:  https://facebook.com/avishka.kavindu.96
-[stackoverflow]: https://stackoverflow.com/users/8388057/avishka-dambawinna
 [hackerrank]: https://www.hackerrank.com/avishkakavindud
+[stackoverflow]: https://stackoverflow.com/users/8388057/avishka-dambawinna
+[codereview]: https://codereview.stackexchange.com/users/223242/avishka-dambawinna
