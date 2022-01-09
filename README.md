@@ -29,7 +29,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 -  I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    - *django and django REST framework(CMS, django-shop)*
 - 🤔 I’m currently learning
-  - *Machine Learning and Flutter*
+  - *Machine Learning, Flutter and React*
   
 - 💬 Talk to me about
   -  *python, psychology and anything (except small talk)*
@@ -70,7 +70,7 @@ I'm Avishka, Enthusiast Dev  👨🏻‍💻 major in Computer Science at Univer
 <br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
-*last update: 8th of June 2021*
+*last update: 09th of January 2022*
 
 [twitter]: https://twitter.com/Avishkakavindu
 [instagram]: https://instagram.com/avishka_dambawinna
