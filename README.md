@@ -1,6 +1,6 @@
 ### Hey🙂
 
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=avishkakavindu.visitor-badge)
+![](https://komarev.com/ghpvc/?username=avishkakavindu&color=blue)
 
 
 
