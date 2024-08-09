@@ -47,7 +47,7 @@ I'm Avishka, an Enthusiast Dev  👨🏻‍💻 majoring in Computer Science at 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Codereviewstackexchange" width="22px" src="https://cdn.sstatic.net/Sites/codereview/Img/favicon.ico?v=98c717f8afd1" />][codereview]
 
 
