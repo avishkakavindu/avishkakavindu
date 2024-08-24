@@ -4,7 +4,7 @@
 
 
 
-I'm Avishka, an Enthusiast Dev  👨🏻‍💻 majoring in Computer Science at the University of Sabaragamuwa, Sri Lanka.
+I'm Avishka, an Enthusiast Dev  👨🏻‍💻 
 
 
 | T | h | i | n | g | s |   | I |   | 🖤| : |   |   |   |   |   
