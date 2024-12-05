@@ -72,7 +72,7 @@ I'm Avishka, an Enthusiast Dev  👨🏻‍💻
 <br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=red)
 
-*last update: 30th of August 2022*
+*last update: 5th of December 2024*
 
 [twitter]: https://twitter.com/Avishkakavindu
 [instagram]: https://instagram.com/avishka_dambawinna
